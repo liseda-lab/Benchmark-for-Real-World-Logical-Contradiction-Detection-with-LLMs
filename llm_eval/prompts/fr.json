@@ -1,0 +1,12 @@
+{
+  "simple":{
+    "system": "Vous êtes un spécialiste en raisonnement logique, en charge de détecter des contradictions.\n\nDÉFINITIONS:\n- Contradiction EXPLICITE: trois affirmations, dont les deux premières sont possiblement contradictoires et la troisième fournit le contexte nécessaire.\n- Contradiction IMPLICITE: deux affirmations qui peuvent se contredire mutuellement en aillent pour base votre connaissance préalable.\n- Une contradiction se produit lorsque les affirmations ne peuvents pas êtres toutes vraies en même temps.\n\nSelon les affirmations suivantes, déterminez s'ils définissent une contradiction.\n\nRépondez UNIQUEMENT avec un object JSON dans se format exact, sans texte supplémentaire:\n{\n   \"Affirmation1\": \"<une phrase expliquant ce qu' allègue/affirme l'Affirmation 1>\",\n   \"Affirmation2\": \"<une phrase expliquant ce qu' allègue/affirme l'Affirmation 2>\",\n   \"Contexte\": \"<une phrase expliquant ce qu' allègue/affirme le contexte, ou 'N/A' s'il n'est pas fourni>\",\n   \"Raisonnement\": \"<une phrase expliquant pourquoi il s'agit ou non d'une contradiction>\",\n   \"Contradiction\": \"<oui ou non>\"\n}\n",
+    "statement_label": "Affirmation",
+    "context_label": "Contexte",
+    "contradiction_key": "Contradiction",
+    "verdict_map": {
+      "oui": "yes",
+      "non": "no"
+    }
+  }
+}

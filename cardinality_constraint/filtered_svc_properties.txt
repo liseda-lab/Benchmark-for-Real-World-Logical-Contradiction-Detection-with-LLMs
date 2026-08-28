@@ -1,0 +1,499 @@
+P117	chemical structure
+P141	IUCN conservation status
+P163	flag
+P194	legislative body
+P201	outflows
+P209	highest judicial authority
+P212	ISBN-13
+P223	galaxy morphological type
+P229	IATA airline designator
+P230	ICAO airline designator
+P233	canonical SMILES
+P234	InChI
+P236	ISSN
+P241	military branch
+P36	capital
+P53	family
+P59	constellation
+P65	site of astronomical discovery
+P78	top-level Internet domain
+P85	anthem
+P10079	FAOLEX No
+P10113	IMA Mineral Symbol
+P10176	type host
+P10232	Volgograd Oblast address register
+P1025	SUDOC editions
+P1028	donated by
+P10307	CYT/CCS
+P1033	GHS signal word
+P10339	semantic gender
+P10374	computational complexity
+P1044	SWB editions
+P1052	CPP-2010
+P10581	Cameroun COG
+P10604	type of a register in Germany
+P10627	web interface software
+P10640	pole positions
+P10648	podium finishes
+P10680	franchisor
+P10681	government debt-to-GDP ratio
+P1069	Statistics Denmarks classification of occupation (DISCO-08)
+P10718	CXSMILES
+P10726	class of non-item property value
+P10731	support of a function
+P10732	probability mass function
+P10733	probability generating function
+P10734	Fisher information
+P10735	characteristic function
+P10736	cumulative distribution function
+P10737	quantile function
+P10738	mean of a probability distribution
+P10739	median of a probability distribution
+P10740	mode of a probability distribution
+P10743	variance of a probability distribution
+P10744	skewness
+P10745	excess kurtosis
+P10746	information entropy
+P10747	moment-generating function
+P1079	launch contractor
+P1082	population
+P10823	fastest laps
+P1083	maximum capacity
+P1084	EUL editions
+P10859	Material UI icon
+P1087	Elo rating
+P1088	Mohs' hardness
+P10892	Bioconductor project
+P1092	total produced
+P11034	Gauss notation
+P1128	employees
+P11293	Amazon.com browse node
+P11372	CocoaPods pod
+P11385	camera lens
+P11387	image processor
+P11429	NIP
+P1143	BN (Argentine) editions
+P1145	Lagrangian point
+P1149	Library of Congress Classification
+P1150	Regensburg Classification
+P1151	topic's main Wikimedia portal
+P11530	addons.mozilla.org user
+P11550	RISM siglum
+P11590	stamp perforation
+P1161	Z39.5 abbreviation
+P1162	Bluebook abbreviation
+P11626	Vintage Fashion Guild label
+P11627	Lighthouse Directory page
+P11645	Electronic library encyclopedia.com.ua
+P1172	Geokod
+P1174	visitors per year
+P1183	Gewässerkennzahl
+P1189	Chinese Library Classification
+P1196	manner of death
+P11962	Rumble channel
+P11964	tournament type
+P1199	mode of inheritance
+P1200	category for the water basin
+P1201	space tug
+P12030	Mageia package
+P1204	Wikimedia portal's main topic
+P12044	chronological designation
+P12050	demo of
+P1208	ISMN
+P12081	WHO Aware Classification
+P1209	CN
+P12095	fonds
+P12099	parent form of an active substance
+P12110	Parpulov group
+P1213	NLC authorities
+P1215	apparent magnitude
+P12168	Torino scale
+P12221	battery life
+P12355	Merkur author page
+P12369	Bantumen Powerlist 100
+P12411	Unified Saudi Occupational Classification
+P12413	date of application
+P12441	Anglo-Norman Dictionary entry
+P12443	has cabinet
+P12446	ISCED field
+P1245	OmegaWiki Defined Meaning
+P12456	phonographic copyright
+P12468	PyPI trove classifier
+P12470	normal graduation time
+P12471	multiplier of normal graduation time
+P1249	time of earliest written record
+P1250	Danish Bibliometric Research Indicator (BFI) SNO/CNO
+P12503	thesaurus's main topic
+P12505	topic's main thesaurus
+P12549	height of letters
+P1256	Iconclass notation
+P12563	Imagehash difference hash
+P12565	image of construction
+P1259	coordinates of the point of view
+P12593	SNS Info Saúde
+P12617	creative director
+P12692	representation type
+P12700	Cbonds company profile
+P1283	filmography
+P12849	coin edge image
+P12981	handwriting example
+P1304	central bank
+P13215	DOSBoxWiki article
+P1332	coordinates of northernmost point
+P1333	coordinates of southernmost point
+P1334	coordinates of easternmost point
+P1335	coordinates of westernmost point
+P1338	EPSG CRS
+P13380	OAI formatter
+P1346	winner
+P13464	terminal speaker
+P13484	Know Your Meme slug
+P13493	Repertorium kleine politieke partijen 1918-1967 (Party)
+P13504	kigo of
+P13572	ComputerLanguage.com definition
+P13573	Repertorium kleine politieke partijen 1918-1967 (Person)
+P13612	breed belongs to taxon
+P13616	Debian Wiki article
+P1403	original combination
+P1424	topic's main template
+P1427	start point
+P1434	takes place in fictional universe
+P1454	legal form
+P1455	list of works
+P1464	category for people born here
+P1465	category for people who died here
+P1472	Commons Creator page
+P1539	female population
+P1540	male population
+P1545	series ordinal
+P1546	motto
+P1549	demonym
+P1571	codomain
+P1575	RISS catalog
+P1589	lowest point
+P1612	Commons Institution page
+P1632	Hermann-Mauguin notation
+P1636	date of baptism
+P1639	pendant of
+P1654	wing configuration
+P1689	central government debt as a percent of GDP
+P1690	ICD-10-PCS
+P1693	Terminologia Embryologica
+P1694	Terminologia Histologica
+P1696	inverse property
+P1705	native label
+P1740	category for films shot at this location
+P1752	scale
+P1753	list related to category
+P1760	Aviation Safety Network Wikibase Occurrence
+P1762	Hornbostel-Sachs classification
+P1791	category for people buried here
+P1792	category of associated people
+P1793	format as a regular expression
+P1811	list of episodes
+P1830	owner of
+P1851	input set
+P1881	list of characters
+P1897	highest note
+P1898	lowest note
+P1921	formatter URI for RDF resource
+P1922	first line
+P1973	RSL editions
+P1999	UNESCO language status
+P2009	Exif model
+P2033	category for pictures taken with this camera
+P2098	substitute/deputy/replacement of office/officeholder
+P2106	RXNO Ontology
+P2114	half-life
+P2127	International Nuclear Event Scale
+P2131	nominal GDP
+P2132	nominal GDP per capita
+P2133	total debt
+P2135	total exports
+P2136	total imports
+P2139	total revenue
+P2209	SourceForge project
+P2211	position angle
+P2220	household wealth
+P2225	discharge
+P2226	market capitalization
+P2250	life expectancy
+P2272	Hederich encyclopedia article
+P2295	net profit
+P2299	PPP GDP per capita
+P2320	aftershocks
+P2363	NMHH film rating
+P2370	conversion to SI unit
+P2374	natural abundance
+P2393	NCBI locus tag
+P2394	MGI Gene Symbol
+P2396	image of function
+P2411	Artsy gene
+P2421	Prosopographia Attica
+P2425	service ribbon image
+P2460	Persons of Ancient Athens
+P2462	member of the deme
+P2487	page at website of Belarus Geocenter
+P2490	page at OSTIS Belarus Wiki
+P2517	category for recipients of this award
+P2537	Free Software Directory entry
+P2597	Gram staining
+P2629	BBFC rating
+P2633	geography of topic
+P2666	Datahub page
+P2667	corresponding template
+P2681	is recto of
+P2682	is verso of
+P2687	JPNO
+P274	chemical formula
+P2744	PASE name
+P2754	production date
+P2756	EIRIN film rating
+P2761	Research Papers in Economics Series handle
+P2786	aerodrome reference point
+P2820	cardinality of this set
+P2831	totem
+P2832	Joint Electronics Type Designation Automated System designation
+P2873	time in space
+P2875	property usage tracking category
+P2892	UMLS CUI
+P2898	Swedish county letter
+P2913	date depicted
+P2986	aircraft registration prefix
+P2988	GOST 7.67 cyrillic
+P3037	spatial reference system
+P3068	WIPO ST.3
+P3069	UN document symbol
+P3096	KML file
+P3132	last line
+P3156	Australian Classification
+P3195	league points system
+P3212	ISAN
+P3264	radix
+P3290	biography at the Landtag of Mecklenburg-Vorpommern
+P3467	Inventario Sculture - Polo Museale Fiorentino
+P3518	Smithsonian trinomial
+P353	HGNC gene symbol
+P3592	saros cycle of eclipse
+P3648	NatureServe conservation status
+P373	Commons category
+P3732	PhilPapers record
+P375	space launch vehicle
+P376	located on astronomical body
+P3764	pole position
+P377	SCN
+P3822	rules for classification
+P3825	United States Statutes at Large citation
+P3837	United States Public Law
+P3871	tributary orientation
+P3872	patronage
+P3876	category for alumni of educational institution
+P3934	face value
+P3984	subreddit
+P4010	GDP (PPP)
+P4020	ISQ dimension
+P4109	URN-NBN
+P4111	danskefilm TV Christmas calendar
+P418	has seal, badge, or sigil
+P4195	category for employees of the organization
+P4202	WFD Chemical status
+P432	callsign of airline
+P4435	snap package
+P4509	National Monuments of Namibia Site Reference
+P4589	Dreadnought Project page
+P461	opposite of
+P4661	reservoir created
+P470	Eight Banner register
+P4743	animal breed
+P4843	development of anatomical structure
+P4884	court
+P489	currency symbol description
+P4951	INCI name
+P4973	Wikitribune category
+P503	ISO standard
+P5049	Harvard designation
+P5053	fastest lap
+P5123	Swedish Literature Bank edition
+P5125	Wikimedia outline
+P5143	amateur radio callsign
+P5148	e-MEC entry
+P5180	CIVICUS Monitor country entry
+P5205	stroke count
+P5277	grade of kanji
+P5280	radical
+P5285	Firmenbuchnummer
+P5427	position of accent nucleus
+P5428	position of devoiced vowel
+P5444	model year
+P552	handedness
+P5536	Swedish place name register SOFI
+P555	doubles record
+P556	crystal system
+P5565	CRAN project
+P5568	PyPI project
+P557	DiseasesDB
+P561	NATO reporting name
+P562	central bank/issuer
+P563	ICD-O
+P564	singles record
+P566	has basionym
+P5686	ITU-R Recommendation
+P5688	ITU-T Recommendation
+P5755	EU RCN
+P5814	IANA service name
+P5817	state of use
+P585	point in time
+P587	MMSI
+P5894	tuition fee
+P5962	sail emblem
+P5965	LUBW Protected Area No
+P5996	category for films in this language
+P6081	RIA Novosti reference
+P619	UTC date of spacecraft launch
+P6204	CNPJ
+P621	time of object orbit decay
+P6210	LIGA profile
+P6216	copyright status
+P6219	TASS reference
+P6229	Discord Store game SKU
+P6243	digital representation of
+P6259	epoch
+P6370	REDIZO
+P6385	Krugosvet article
+P6449	Douban site name
+P6482	Image Archive, Herder Institute
+P6484	Antarctica NZ Digital Asset Manager
+P6507	taxon author citation
+P652	UNII
+P653	PubMed Health
+P663	DSM-IV classification
+P6650	Martindale-Hubbell profile
+P6657	CHVRS Classification
+P6658	RCQ classification
+P6765	Guix Variable Name
+P6857	JIS standard
+P6889	microarchitecture
+P690	space group
+P6916	Heritage Gazetteer of Cyprus
+P6931	Repology project name
+P6938	seconded by
+P6939	moved by
+P694	replaced synonym (for nom. nov.)
+P6954	online access status
+P6997	magazine in BitArkivo.org
+P7009	extracted from
+P7073	extension on WikiApiary
+P7074	skin on WikiApiary
+P708	diocese
+P7087	inverse label item
+P7094	WaterNSW Rivers and Streams Site No.
+P712	Nickel-Strunz 9th edition (updated 2009)
+P713	Nickel-Strunz '10th ed', review of (9th ed/ 2009 update)
+P714	Dana 8th edition
+P7144	NOTAM (FAA)
+P7161	Kinsky–Halm Catalogue
+P7163	typically sells
+P729	service entry
+P730	service retirement
+P7336	GCF Reference
+P7338	regnal ordinal
+P7363	ISSN-L
+P7377	infix
+P7497	Wolfram Language entity type
+P7559	Ahotsak lexeme
+P7561	category for the interior of the item
+P7574	Swedish Royal Theater Archive
+P7576	Broadcast Radio Bearer URI
+P7582	Wildlife Protection Act 1972 (India) schedule
+P7600	primary note
+P7601	secondary note
+P7607	WikiTree category or space
+P7704	Europeana entity
+P773	ISO 3166-3
+P7749	Nomenclature for Museum Cataloging
+P7789	Ten-Bruggencatenummer
+P779	Church of Sweden Pastoratskod
+P782	LAU
+P7949	Czech War Graves Register
+P7957	Directory of Maîtres d'art
+P8119	HASC
+P813	retrieved
+P814	IUCN protected areas category
+P815	ITIS TSN
+P8176	itch.io developer profile
+P8189	P8189
+P8225	is metaclass for
+P8247	nominal share capital
+P8248	Colon Classification
+P8346	Nomor Pokok Wajib Pajak
+P835	author citation (zoology)
+P8378	Dowker-Thistlethwaite notation
+P8416	Dowker-Thistlethwaite name
+P8443	Homebrew formula name
+P8464	content partnership category
+P8480	Ofsted inspection rating
+P849	Japanese military aircraft designation
+P852	ESRB rating
+P853	CERO rating
+P8558	Butcher tableau
+P8596	category for the exterior of the item
+P8597	axle track
+P862	Operational Requirement of the UK Air Ministry
+P8620	construction point
+P8621	turning radius
+P8622	hill size
+P8625	bibliography
+P8628	engine displacement
+P8654	SSYK 2012 The Swedish Standard Classification of Occupations
+P8713	Stadtwiki Dresden article
+P8744	economy of topic
+P8751	die axis
+P8757	maximum current
+P877	NFPA Special
+P8778	Docker Hub repository
+P8832	PAN member
+P8865	mathematical inverse
+P8874	Hong Kong film rating
+P8881	ITRANS
+P8889	MTRCB rating
+P8894	BG EIK
+P8901	ELSPA rating
+P8933	category for the view from the item
+P8939	Google Play developer slug
+P8963	National Library at Kolkata romanization
+P8989	category for the view of the item
+P901	FIPS 10-4 (countries and regions)
+P9028	CCC classification
+P9052	date postally canceled
+P908	PEGI rating
+P914	USK rating
+P916	GSRR rating
+P9241	demographics of topic
+P9311	Jyutping transliteration
+P9313	Yale romanization
+P9317	Institute of Language in Education Scheme
+P9323	Cantonese Transliteration Scheme transliteration
+P935	Commons gallery
+P9373	Ukrainian national romanization
+P9453	ALA-LC romanization for Ukrainian
+P952	ISCO-88 occupation class
+P9521	Biology Online Biology Dictionary entry
+P957	ISBN-10
+P9574	Anime Filler List episode slug
+P9602	OSDN project
+P9604	DiVA authority-person
+P9667	date of resignation
+P9687	author given names
+P9688	author last names
+P9790	Smithsonian trinomial format regex
+P9798	Classification of the Functions of Government
+P9863	Gujarati Vishwakosh entry
+P9888	NZTCS conservation status
+P9905	relevant date for copyright
+P993	NFPA Health
+P994	NFPA Fire
+P995	NFPA Instability
+P9974	ITU radio emission designation
+P999	ARICNS
+P9997	Bowers acronym
+P9998	excitation energy

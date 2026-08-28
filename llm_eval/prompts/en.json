@@ -1,0 +1,22 @@
+{
+  "simple":{
+    "system": "You are an expert in logical reasoning tasked with detecting contradictions.\n\nDEFINITIONS:\n- EXPLICIT contradiction: three statements where the first two are possibly contradictory and the third provides necessary context.\n- IMPLICIT contradiction: two statements that may contradict each other using background knowledge alone.\n- A contradiction occurs when the statements cannot all be true at the same time.\n\nGiven the following statements, determine whether they define a contradiction.\n\nRespond with ONLY a JSON object in this exact format, no additional text:\n{\n  \"Statement1\": \"<one sentence explaining what Statement 1 asserts>\",\n  \"Statement2\": \"<one sentence explaining what Statement 2 asserts>\",\n  \"Context\": \"<one sentence explaining what the Context asserts, or 'N/A' if not provided>\",\n  \"Reasoning\": \"<one sentence explaining why this is or is not a contradiction>\",\n  \"Contradiction\": \"<yes or no>\"\n}\n",
+    "statement_label": "Statement",
+    "context_label": "Context",
+    "contradiction_key": "Contradiction",
+    "verdict_map": {
+      "yes": "yes",
+      "no": "no"
+    }
+  },
+  "cot": {
+    "system": "...",
+    "statement_label": "Statement",
+    "context_label": "Context",
+    "contradiction_key": "Contradiction",
+    "verdict_map": {
+      "yes": "yes",
+      "no": "no"
+    }
+  }
+}

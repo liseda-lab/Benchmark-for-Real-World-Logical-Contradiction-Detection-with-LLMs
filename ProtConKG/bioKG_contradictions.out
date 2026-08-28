@@ -1,0 +1,25 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+
+Benchmark dataset generated: contradictions/hierarchical_contradictions_benchmark.tsv
+Total size : 2882  (Positives: 1441, Negatives: 1441)
+
+Positive set coverage:
+  Unique subjects  : 986
+  Unique relations : 3 ['enables', 'has_biological_process', 'located_in']
+
+Negative set coverage:
+  Unique subjects  : 963
+  Unique relations : 3 ['enables', 'has_biological_process', 'located_in']
+
+Benchmark dataset generated: contradictions/direct_contradictions_benchmark.tsv
+Total size : 10000  (Positives: 5000, Negatives: 5000)
+
+Positive set coverage:
+  Unique subjects  : 3687
+  Unique relations : 3 ['enables', 'has_biological_process', 'located_in']
+
+Negative set coverage:
+  Unique subjects  : 3555
+  Unique relations : 3 ['enables', 'has_biological_process', 'located_in']

@@ -1,0 +1,3 @@
+subject_type	namespace	relation	ontology
+Protein	https://www.uniprot.org/uniprotkb/	has_function	go
+Disease	http://www.ncbi.nlm.nih.gov/medgen/	has_phenotype	hp
